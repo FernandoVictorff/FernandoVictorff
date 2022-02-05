@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Fernando Victor 👋 
-Sou estudante de desenvolvimento web
+
+- :computer: Atulamente estudo desenvolvimento web na Digital House Brasil
+- 🌱 Areas que tenho maior interesse :point_right: Back-end e DevOps
+
 <div><br> 
     <a href-"https://github.com/FernandoVictorff"> 
     <img height="180em"src="https://github-readme-stats.vercel.app/api?username=FernandoVictorff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
